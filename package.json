@@ -1,0 +1,26 @@
+{
+  "name": "bus-station",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "13.2.4",
+    "primeflex": "3.3.0",
+    "primeicons": "^6.0.1",
+    "primereact": "9.2.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-transition-group": "^4.4.5",
+    "sequelize": "^6.30.0"
+  },
+  "devDependencies": {
+    "@rocketseat/eslint-config": "^1.2.0",
+    "eslint": "^8.37.0",
+    "sass": "^1.58.3"
+  }
+}
